@@ -37,10 +37,10 @@ Creating a consistent visual identity across multiple sections
 
 ## Screenshots
 ### Homepage
-![Homepage](Screenshot%202026-04-18%20183146.png)
+![Homepage](Screenshot 2026-04-18 185827.png)
 
 ### Services Section
-![Services](Screenshot%202026-04-18%20183206.png)
+![Services](Screenshot 2026-04-18 185844.png)
 
 ### About Section
 ![About](Screenshot%202026-04-18%20183233.png)
