@@ -36,17 +36,19 @@ Strengthening mobile responsiveness and spacing
 Creating a consistent visual identity across multiple sections
 
 ## Screenshots
+
 ### Homepage
-![Homepage](Screenshot 2026-04-18 185827.png)
+![Homepage](Screenshot%202026-04-18%20185827.png)
 
 ### Services Section
-![Services](Screenshot 2026-04-18 185844.png)
+![Services](Screenshot%202026-04-18%20185844.png)
 
 ### About Section
-![About](Screenshot%202026-04-18%20183233.png)
+![About](Screenshot%202026-04-18%20185919.png)
 
 ### Contact / Footer
-![Footer](Screenshot%202026-04-18%20183259.png)
+![Footer](Screenshot%202026-04-18%20185937.png)
+
 
 Notes
 Developed locally using MAMP
